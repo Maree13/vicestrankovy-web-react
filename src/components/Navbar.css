@@ -1,0 +1,17 @@
+.activeLink {
+
+  color: rgb(121, 86, 23);
+  text-decoration: none;
+  padding: 2px 10px;
+}
+
+.nonactiveLink {
+  color: rgb(160, 160, 160);
+}
+
+/* a:not(.active) {
+  background-color: green;
+  color: white;
+}
+
+Vybiram vsechny acka ktere nejsou active, ale neni to uplne doporuceny zpusob, protoze to muze vzit i dalsi acka na strance */
